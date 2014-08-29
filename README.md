@@ -20,7 +20,7 @@ https://github.com/airtonix/django-shop-digitalproducts
 
 ## Product variations
 
-* https://github.com/jrief/django-shop-productvariations [^patched]
+* https://github.com/jrief/django-shop-productvariations NOTE: This app requires a patched version of django SHOP.
 
 ## Catalog and presentation
 
@@ -31,5 +31,4 @@ https://github.com/airtonix/django-shop-digitalproducts
 
 
 See also the [django SHOP plugins](https://www.djangopackages.com/grids/g/django-shop-plugins/) grid on Django Packages
-
-[^patched]This app requires a patched version of django SHOP.
+ 
