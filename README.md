@@ -31,5 +31,10 @@ https://github.com/airtonix/django-shop-digitalproducts
 
 ## Payment 
 
+* Postfinance: pip install -e git+https://github.com/philippeowagner/django-shop-postfinance.git@cf27b34d9ceab620543afdfc326430020bdc6a80#egg=django_shop_postfinance-master
+
+* PayPal: pip install -e git+https://github.com/philippeowagner/django-paypal.git@ca10ec496187095ba0b7ad6ba4219dbcff7a5975#egg=paypal-master and pip install -e git+https://github.com/philippeowagner/django-shop-paypal.git@01a8b821c4210f2a8f65bb8cf139df7f6f733692#egg=django_shop_paypal-master
+
+
 See also the [django SHOP plugins](https://www.djangopackages.com/grids/g/django-shop-plugins/) grid on Django Packages
  
