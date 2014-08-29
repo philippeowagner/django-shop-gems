@@ -20,6 +20,7 @@ https://github.com/airtonix/django-shop-digitalproducts
 
 ## Product variations
 
+* https://github.com/chrisglass/django-shop-simplevariations
 * https://github.com/jrief/django-shop-productvariations NOTE: This app requires a patched version of django SHOP.
 
 ## Catalog and presentation
